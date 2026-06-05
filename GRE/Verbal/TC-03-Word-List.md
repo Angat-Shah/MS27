@@ -1,26 +1,26 @@
 # Text Completion - Word List 3
 This document is a curated collection of vocabulary words encountered during Text Completion practice. The words span a variety of themes including personality traits, emotions, politics, law, economics, academia, literature, and everyday usage.
 
-Total Words: **233**
+Total Words: **234**
 
 ## Word Index
 
 | I | II | III | IV | V | VI | VII | VIII | IX | X | XI | XII | XIII | XIV | XV | XVI | XVII |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Semblance | Auspicious | Plagiarism | Prevarication | Skepticism | Sycophancy | Torrid | Proffered | Squeamish | Arriviste | Bracing | Reaffirms | Wary | Rambling | Philanthropy | Taciturn | Emerges |
-| Normalcy | Turbulent | Litanies | Deliberation | Jingoism | Umbrage | Aviators | Compiling | Applause | Disastrously | Alluring | Disambiguates | Cognizant | Foreshadow | Barons | Despondent | Affability |
-| Wherewithal | Publicized | Rebuttals | Vacillation | Paranoia | Dander | Ephemeral | Laudable | Elucidates | Unjustifiably | Rigorous | Undermines | Permissive | Concerti | Fastidious | Drastically | Diffidence |
-| Tabloid | Capitulation | Epiphanies | Chancellor | Restiveness | Proscription | Enduring | Vexed | Specificity | Contrariness | Precedented | Derelict | Conducive | Eschew | Trenchant | Secularist | Boorishness |
-| Aberrant | Calumny | Discerning | Procrastination | Euphoria | Denouement | Posterity | Agog | Overarching | Solicitude | Neophyte | Debris | Inimical | Travelogue | Poignant | Chauvinist | Contemptuousness |
-| Dumbfounded | Serenity | Avid | Subterfuge | Cupidity | Recapitulation | Austere | Dexterity | Barren | Surliness | Erroneously | Cynical | Cede | Genre | Genial | Inquisitor | Obliviousness |
-| Crestfallen | Acrimony | Contentious | Tempestuousness | Precludes | Fecund | Extravagant | Superciliousness | Insatiable | x | Decorum | Quipped | Triumvirate | Slant | Milieu | Philistine | Plight |
-| Circumscribe | Cogently | Ranting | Maladroit | Viable | Warped | Cloistered | Aplomb | Eminent | Mozart | Piquancy | Incontrovertible | Mavericks | Cosmopolitan | Spur | Avowed | Irrefutable |
-| Meteorological | Haltingly | Anointing | Subdued | Moot | Stunted | Befitting | Pianist | Garrulous | Beethoven | Vitriol | Equivocal | Pugilists | Anachronism | Efflorescence | Impugn | Elusive |
-| Bonanza | Ceaselessly | Bloviating | Forthright | Fallacious | Controversial | Decadent | Merciless | Forlorn | Cultivate | Unease | Inconsequential | Doyennes | Misnomer | Strife | Jargon | |
-| Necropolis | Noiselessly | Misconstruing | Recitals | Clinician | Tyranny | Monarchy | Fulsome | Gregarious | Posthumous | Abandon | Sacerdotal | Consigliere | Provocation | Prolific | Discernible | |
-| Swathes | Epigrammatic | Augmenting | Inestimable | Glib | Hardiness | Entailed | Opaque | Bumbling | Dominant | Uninhibitedly | Idolization | Antithetical | Braggadocio | Dysphoric | Erode | |
-| Suburbia | Obscure | Dilatory | Pernicious | Obliging | Insolence | Ebb | Derision | Vignettes | Blatantly | Flailing | Subjugation | Provenance | Truculence | Ebullient | Distill | |
-| Domiciles | Renown | Overzealous | Credence | Slavish | Propitious | Ameliorate | Librettist | Hitchhiker | Galling | Belies | Obeisance | Mercurial | Moguls | Unflappable | Foster | |
+| Semblance | Auspicious | Plagiarism | Prevarication | Skepticism | Sycophancy | Torrid | Laudable | Squeamish | Arriviste | Bracing | Reaffirms | Wary | Rambling | Moguls | Unflappable | Foster |
+| Normalcy | Turbulent | Litanies | Deliberation | Jingoism | Umbrage | Aviators | Vexed | Applause | Disastrously | Alluring | Disambiguates | Cognizant | Exorcise | Philanthropy | Taciturn | Emerges |
+| Wherewithal | Publicized | Rebuttals | Vacillation | Paranoia | Dander | Ephemeral | Agog | Elucidates | Unjustifiably | Rigorous | Undermines | Permissive | Foreshadow | Barons | Despondent | Affability |
+| Tabloid | Capitulation | Epiphanies | Chancellor | Restiveness | Proscription | Enduring | Dexterity | Specificity | Contrariness | Precedented | Derelict | Conducive | Concerti | Fastidious | Drastically | Diffidence |
+| Aberrant | Calumny | Discerning | Procrastination | Euphoria | Denouement | Posterity | Superciliousness | Overarching | Solicitude | Neophyte | Debris | Inimical | Eschew | Trenchant | Secularist | Boorishness |
+| Dumbfounded | Serenity | Avid | Subterfuge | Cupidity | Recapitulation | Austere | Aplomb | Barren | Surliness | Erroneously | Cynical | Cede | Travelogue | Poignant | Chauvinist | Contemptuousness |
+| Crestfallen | Acrimony | Contentious | Tempestuousness | Precludes | Fecund | Extravagant | Pianist | Insatiable | x | Decorum | Quipped | Triumvirate | Genre | Genial | Inquisitor | Obliviousness |
+| Circumscribe | Cogently | Ranting | Maladroit | Viable | Warped | Cloistered | Merciless | Eminent | Mozart | Piquancy | Incontrovertible | Mavericks | Slant | Milieu | Philistine | Plight |
+| Meteorological | Haltingly | Anointing | Subdued | Moot | Stunted | Befitting | Fulsome | Garrulous | Beethoven | Vitriol | Equivocal | Pugilists | Cosmopolitan | Spur | Avowed | Irrefutable |
+| Bonanza | Ceaselessly | Bloviating | Forthright | Fallacious | Controversial | Decadent | Opaque | Forlorn | Cultivate | Unease | Inconsequential | Doyennes | Anachronism | Efflorescence | Impugn | Elusive |
+| Necropolis | Noiselessly | Misconstruing | Recitals | Clinician | Tyranny | Monarchy | Derision | Gregarious | Posthumous | Abandon | Sacerdotal | Consigliere | Misnomer | Strife | Jargon |  |
+| Swathes | Epigrammatic | Augmenting | Inestimable | Glib | Hardiness | Entailed | Librettist | Bumbling | Dominant | Uninhibitedly | Idolization | Antithetical | Provocation | Prolific | Discernible |  |
+| Suburbia | Obscure | Dilatory | Pernicious | Obliging | Insolence | Ebb | Squeamish | Vignettes | Blatantly | Flailing | Subjugation | Provenance | Braggadocio | Dysphoric | Erode |  |
+| Domiciles | Renown | Overzealous | Credence | Slavish | Propitious | Ameliorate | Applause | Hitchhiker | Galling | Belies | Obeisance | Mercurial | Truculence | Ebullient | Distill |  |
 
 
 ## Word Entries
@@ -755,203 +755,207 @@ Total Words: **233**
 183. **Rambling** — wandering; unfocused  
     _Ex:_ His rambling answer lacked clarity.  
     _Remember:_ No clear path.
+
+184. **Exorcise** — drive out; remove completely  
+    _Ex:_ The reform exorcised corruption.  
+    _Remember:_ Cast out evil.
     
-184. **Foreshadow** — hint at beforehand  
+185. **Foreshadow** — hint at beforehand  
     _Ex:_ Early clues foreshadow the ending.  
     _Remember:_ Shadow before event.
     
-185. **Concerti** — musical compositions for soloist  
+186. **Concerti** — musical compositions for soloist  
     _Ex:_ The composer wrote several concerti.  
     _Remember:_ Soloist with orchestra.
     
-186. **Eschew** — deliberately avoid  
+187. **Eschew** — deliberately avoid  
     _Ex:_ She eschewed unnecessary risks.  
     _Remember:_ Stay away.
     
-187. **Travelogue** — travel account  
+188. **Travelogue** — travel account  
     _Ex:_ The travelogue described remote villages.  
     _Remember:_ Travel diary.
     
-188. **Genre** — category; type  
+189. **Genre** — category; type  
     _Ex:_ Mystery is a popular genre.  
     _Remember:_ Type of work.
     
-189. **Slant** — bias; viewpoint  
+190. **Slant** — bias; viewpoint  
     _Ex:_ The article had a political slant.  
     _Remember:_ Tilted perspective.
     
-190. **Cosmopolitan** — worldly; culturally diverse  
+191. **Cosmopolitan** — worldly; culturally diverse  
     _Ex:_ She has a cosmopolitan outlook.  
     _Remember:_ Citizen of the world.
     
-191. **Anachronism** — something out of its time  
+192. **Anachronism** — something out of its time  
     _Ex:_ The phone was an anachronism.  
     _Remember:_ Wrong time period.
     
-192. **Misnomer** — incorrect name  
+193. **Misnomer** — incorrect name  
     _Ex:_ “Jumbo shrimp” is a misnomer.  
     _Remember:_ Bad label.
     
-193. **Provocation** — action that causes reaction  
+194. **Provocation** — action that causes reaction  
     _Ex:_ The remark was a provocation.  
     _Remember:_ Stirring trouble.
     
-194. **Braggadocio** — boastful talk  
+195. **Braggadocio** — boastful talk  
     _Ex:_ His speech was pure braggadocio.  
     _Remember:_ All bragging.
     
-195. **Truculence** — aggressive hostility  
+196. **Truculence** — aggressive hostility  
     _Ex:_ The critic responded with truculence.  
     _Remember:_ Ready to fight.
     
-196. **Moguls** — powerful business leaders  
+197. **Moguls** — powerful business leaders  
     _Ex:_ Tech moguls shaped the industry.  
     _Remember:_ Business giants.
     
-197. **Philanthropy** — charitable giving  
+198. **Philanthropy** — charitable giving  
     _Ex:_ Her wealth supported philanthropy.  
     _Remember:_ Giving to help.
     
-198. **Barons** — powerful leaders in an industry  
+199. **Barons** — powerful leaders in an industry  
     _Ex:_ Oil barons amassed fortunes.  
     _Remember:_ Industry kings.
     
-199. **Fastidious** — very careful; hard to please  
+200. **Fastidious** — very careful; hard to please  
     _Ex:_ He is fastidious about details.  
     _Remember:_ Perfection-focused.
     
-200. **Trenchant** — sharp and insightful  
+201. **Trenchant** — sharp and insightful  
     _Ex:_ Her trenchant critique impressed readers.  
     _Remember:_ Cuts to the point.
     
-201. **Poignant** — deeply moving  
+202. **Poignant** — deeply moving  
     _Ex:_ The ending was poignant.  
     _Remember:_ Touches the heart.
     
-202. **Genial** — warm and friendly  
+203. **Genial** — warm and friendly  
     _Ex:_ The host was genial.  
     _Remember:_ Easy warmth.
     
-203. **Milieu** — social environment  
+204. **Milieu** — social environment  
     _Ex:_ She thrived in that milieu.  
     _Remember:_ Surrounding culture.
     
-204. **Spur** — stimulate; motivate  
+205. **Spur** — stimulate; motivate  
     _Ex:_ Competition spurred innovation.  
     _Remember:_ Push forward.
     
-205. **Efflorescence** — flourishing growth  
+206. **Efflorescence** — flourishing growth  
     _Ex:_ The city saw an efflorescence of art.  
     _Remember:_ Blooming period.
     
-206. **Strife** — conflict; disagreement  
+207. **Strife** — conflict; disagreement  
     _Ex:_ Years of strife weakened the nation.  
     _Remember:_ Ongoing conflict.
     
-207. **Prolific** — highly productive  
+208. **Prolific** — highly productive  
     _Ex:_ The prolific author published yearly.  
     _Remember:_ Produces a lot.
     
-208. **Dysphoric** — unhappy; uneasy  
+209. **Dysphoric** — unhappy; uneasy  
     _Ex:_ He felt dysphoric after the loss.  
     _Remember:_ Opposite of euphoric.
     
-209. **Ebullient** — cheerful and energetic  
+210. **Ebullient** — cheerful and energetic  
     _Ex:_ Her ebullient mood spread quickly.  
     _Remember:_ Overflowing happiness.
     
-210. **Unflappable** — calm under pressure  
+211. **Unflappable** — calm under pressure  
     _Ex:_ She remained unflappable during crisis.  
     _Remember:_ Never rattled.
     
-211. **Taciturn** — reserved; speaks little  
+212. **Taciturn** — reserved; speaks little  
     _Ex:_ The taciturn professor avoided small talk.  
     _Remember:_ Few words.
     
-212. **Despondent** — very discouraged  
+213. **Despondent** — very discouraged  
     _Ex:_ He grew despondent after repeated failures.  
     _Remember:_ Lost hope.
     
-213. **Drastically** — extremely; sharply  
+214. **Drastically** — extremely; sharply  
     _Ex:_ Prices dropped drastically.  
     _Remember:_ Big change.
     
-214. **Secularist** — supporter of nonreligious public affairs  
+215. **Secularist** — supporter of nonreligious public affairs  
     _Ex:_ The secularist opposed religious influence.  
     _Remember:_ Religion separate.
     
-215. **Chauvinist** — blindly biased supporter  
+216. **Chauvinist** — blindly biased supporter  
     _Ex:_ The chauvinist dismissed outsiders.  
     _Remember:_ Extreme favoritism.
     
-216. **Inquisitor** — harsh questioner  
+217. **Inquisitor** — harsh questioner  
     _Ex:_ The inquisitor demanded answers.  
     _Remember:_ Relentless questioning.
     
-217. **Philistine** — person indifferent to culture  
+218. **Philistine** — person indifferent to culture  
     _Ex:_ Critics called him a philistine.  
     _Remember:_ No appreciation for art.
     
-218. **Avowed** — openly declared  
+219. **Avowed** — openly declared  
     _Ex:_ She is an avowed reformer.  
     _Remember:_ Publicly admitted.
     
-219. **Impugn** — challenge; attack as false  
+220. **Impugn** — challenge; attack as false  
     _Ex:_ They impugned his credibility.  
     _Remember:_ Question integrity.
     
-220. **Jargon** — specialized language  
+221. **Jargon** — specialized language  
     _Ex:_ The report was full of jargon.  
     _Remember:_ Insider terms.
     
-221. **Discernible** — noticeable; detectable  
+222. **Discernible** — noticeable; detectable  
     _Ex:_ A discernible pattern emerged.  
     _Remember:_ Can be seen.
     
-222. **Erode** — wear away gradually  
+223. **Erode** — wear away gradually  
     _Ex:_ Trust eroded over time.  
     _Remember:_ Slowly weaken.
     
-223. **Distill** — extract the essential parts  
+224. **Distill** — extract the essential parts  
     _Ex:_ The summary distilled key ideas.  
     _Remember:_ Boil down.
     
-224. **Foster** — encourage; promote  
+225. **Foster** — encourage; promote  
     _Ex:_ Good policies foster growth.  
     _Remember:_ Help develop.
     
-225. **Emerges** — becomes visible; appears  
+226. **Emerges** — becomes visible; appears  
     _Ex:_ A solution emerges gradually.  
     _Remember:_ Comes into view.
     
-226. **Affability** — friendliness  
+227. **Affability** — friendliness  
     _Ex:_ Her affability won support.  
     _Remember:_ Easy friendliness.
     
-227. **Diffidence** — shyness; lack of confidence  
+228. **Diffidence** — shyness; lack of confidence  
     _Ex:_ Diffidence kept him silent.  
     _Remember:_ Holding back.
     
-228. **Boorishness** — rude behavior  
+229. **Boorishness** — rude behavior  
     _Ex:_ His boorishness offended guests.  
     _Remember:_ Crude manners.
     
-229. **Contemptuousness** — scorn; disrespect  
+230. **Contemptuousness** — scorn; disrespect  
     _Ex:_ Her contemptuousness was obvious.  
     _Remember:_ Looking down on.
     
-230. **Obliviousness** — lack of awareness  
+231. **Obliviousness** — lack of awareness  
     _Ex:_ His obliviousness caused mistakes.  
     _Remember:_ Doesn't notice.
     
-231. **Plight** — difficult situation  
+232. **Plight** — difficult situation  
     _Ex:_ The refugees' plight gained attention.  
     _Remember:_ Tough circumstance.
     
-232. **Irrefutable** — impossible to disprove  
+233. **Irrefutable** — impossible to disprove  
     _Ex:_ The evidence was irrefutable.  
     _Remember:_ Cannot be denied.
     
-233. **Elusive** — hard to find or understand  
+234. **Elusive** — hard to find or understand  
     _Ex:_ Success remained elusive.  
     _Remember:_ Always slipping away.
