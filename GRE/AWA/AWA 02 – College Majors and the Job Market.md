@@ -1,0 +1,18 @@
+# AWA 02 – College Majors and the Job Market
+
+**“College students should base their choice of a field of study on the availability of jobs in that field.”**
+> Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+
+Word Count: **491**
+
+---
+
+## Essay
+
+The decision of what to study in college is the most significant choice a young adult makes, as it can profoundly influence financial stability, career opportunities and personal fulfillment. Given the increasing cost of higher education, it is understandable why many would  argue that one should base their choice of field of study on the basis of employment prospects. Although this is an important consideration, students should not base their decision on this prospect, as students must also consider factors such as their interests, aptitude, and long-term aspirations.
+
+The most favorable argument to the claim is that job availability provides a sense of financial security and a practical return on the student’s educational investment. Since colleges often require financial sacrifices, choosing a field with employment prospects would reduce the risk of unemployment and hardship after graduation. For instance, students pursuing domains like nursing, engineering, or computer science often benefit from their skills, as ample opportunities await them. For students from financially constrained backgrounds, ignoring employment prospects can result in substantial debt and limited career options. Therefore, considering job availability is not merely practical, but it is often necessary. However, there is a vital issue with choosing a field based on the job trends because no one knows when the market changes. The job market is precarious and no one can foretell what scenario it would be four or five years later. Some new technology might come to light and render current industry demands obsolete
+
+Furthermore, making job availability the primary criterion omits the necessity of intrinsic motivation. Consider a student, who has a natural brilliance for history, but opts for computer science solely based on the high demand for the field. They will be constantly out-performed by their peers, who actually love programming and building software, and will stay mediocre in that domain, as they have forced themselves only based on one factor. In contrast, that same student, if allowed to pursue history, for which they have personal aptitude and passion, would develop elite skills which would help excel in their career by developing complex solutions which would aid various departments like law, corporate, or public domains. A real-world example of this can be seen in J. K. Rowling, who pursued interest in literature and writing despite the limited job security associated with becoming an author. Her eventual success demonstrates that genuine passion and commitment can lead to exceptional achievements, even in fields that do not initially offer strong employment prospects. Therefore, long-term professional success depends not only on financial rewards but also on the passion and commitment that stem from genuine aptitude and interest.
+
+In all, post-graduation employment prospects should influence a student’s choice of study, but it should not dominate it. So to treat colleges as a mere job-training facility is a myopic strategy. A successful career is a blend of employment opportunities, personal interests, strengths and long-term aspirations. Such a balanced approach provides both personal and professional fulfillment.
