@@ -3,9 +3,10 @@
 **“An ailing patient should have easy access to his or her doctor’s record of treating similarly afflicted patients. Through gaining such access, the ailing patient may better determine whether the doctor is competent to treat that medical condition.”**
 > Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
 
-Kaplan GRE MST 2
-Score: 4.0
+Source: **Kaplan GRE MST 2** <br>
+Score: **4.0** <br>
 Word Count: **345**
+
 ---
 
 ## Essay
