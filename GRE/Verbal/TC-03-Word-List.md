@@ -7,20 +7,20 @@ Total Words: **234**
 
 | I | II | III | IV | V | VI | VII | VIII | IX | X | XI | XII | XIII | XIV | XV | XVI | XVII |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Semblance | Auspicious | Plagiarism | Prevarication | Skepticism | Sycophancy | Torrid | Laudable | Squeamish | Arriviste | Bracing | Reaffirms | Wary | Rambling | Moguls | Unflappable | Foster |
-| Normalcy | Turbulent | Litanies | Deliberation | Jingoism | Umbrage | Aviators | Vexed | Applause | Disastrously | Alluring | Disambiguates | Cognizant | Exorcise | Philanthropy | Taciturn | Emerges |
-| Wherewithal | Publicized | Rebuttals | Vacillation | Paranoia | Dander | Ephemeral | Agog | Elucidates | Unjustifiably | Rigorous | Undermines | Permissive | Foreshadow | Barons | Despondent | Affability |
-| Tabloid | Capitulation | Epiphanies | Chancellor | Restiveness | Proscription | Enduring | Dexterity | Specificity | Contrariness | Precedented | Derelict | Conducive | Concerti | Fastidious | Drastically | Diffidence |
-| Aberrant | Calumny | Discerning | Procrastination | Euphoria | Denouement | Posterity | Superciliousness | Overarching | Solicitude | Neophyte | Debris | Inimical | Eschew | Trenchant | Secularist | Boorishness |
-| Dumbfounded | Serenity | Avid | Subterfuge | Cupidity | Recapitulation | Austere | Aplomb | Barren | Surliness | Erroneously | Cynical | Cede | Travelogue | Poignant | Chauvinist | Contemptuousness |
-| Crestfallen | Acrimony | Contentious | Tempestuousness | Precludes | Fecund | Extravagant | Pianist | Insatiable | x | Decorum | Quipped | Triumvirate | Genre | Genial | Inquisitor | Obliviousness |
-| Circumscribe | Cogently | Ranting | Maladroit | Viable | Warped | Cloistered | Merciless | Eminent | Mozart | Piquancy | Incontrovertible | Mavericks | Slant | Milieu | Philistine | Plight |
-| Meteorological | Haltingly | Anointing | Subdued | Moot | Stunted | Befitting | Fulsome | Garrulous | Beethoven | Vitriol | Equivocal | Pugilists | Cosmopolitan | Spur | Avowed | Irrefutable |
-| Bonanza | Ceaselessly | Bloviating | Forthright | Fallacious | Controversial | Decadent | Opaque | Forlorn | Cultivate | Unease | Inconsequential | Doyennes | Anachronism | Efflorescence | Impugn | Elusive |
-| Necropolis | Noiselessly | Misconstruing | Recitals | Clinician | Tyranny | Monarchy | Derision | Gregarious | Posthumous | Abandon | Sacerdotal | Consigliere | Misnomer | Strife | Jargon |  |
-| Swathes | Epigrammatic | Augmenting | Inestimable | Glib | Hardiness | Entailed | Librettist | Bumbling | Dominant | Uninhibitedly | Idolization | Antithetical | Provocation | Prolific | Discernible |  |
-| Suburbia | Obscure | Dilatory | Pernicious | Obliging | Insolence | Ebb | Squeamish | Vignettes | Blatantly | Flailing | Subjugation | Provenance | Braggadocio | Dysphoric | Erode |  |
-| Domiciles | Renown | Overzealous | Credence | Slavish | Propitious | Ameliorate | Applause | Hitchhiker | Galling | Belies | Obeisance | Mercurial | Truculence | Ebullient | Distill |  |
+| Semblance | Auspicious | Plagiarism | Prevarication | Skepticism | Sycophancy | Torrid | Proffered | Squeamish | Arriviste | Bracing | Reaffirms | Wary | Rambling | Moguls | Unflappable | Foster |
+| Normalcy | Turbulent | Litanies | Deliberation | Jingoism | Umbrage | Aviators | Compiling | Applause | Disastrously | Alluring | Disambiguates | Cognizant | Exorcise | Philanthropy | Taciturn | Emerges |
+| Wherewithal | Publicized | Rebuttals | Vacillation | Paranoia | Dander | Ephemeral | Laudable | Elucidates | Unjustifiably | Rigorous | Undermines | Permissive | Foreshadow | Barons | Despondent | Affability |
+| Tabloid | Capitulation | Epiphanies | Chancellor | Restiveness | Proscription | Enduring | Vexed | Specificity | Contrariness | Precedented | Derelict | Conducive | Concerti | Fastidious | Drastically | Diffidence |
+| Aberrant | Calumny | Discerning | Procrastination | Euphoria | Denouement | Posterity | Agog | Overarching | Solicitude | Neophyte | Debris | Inimical | Eschew | Trenchant | Secularist | Boorishness |
+| Dumbfounded | Serenity | Avid | Subterfuge | Cupidity | Recapitulation | Austere | Dexterity | Barren | Surliness | Erroneously | Cynical | Cede | Travelogue | Poignant | Chauvinist | Contemptuousness |
+| Crestfallen | Acrimony | Contentious | Tempestuousness | Precludes | Fecund | Extravagant | Superciliousness | Insatiable | x | Decorum | Quipped | Triumvirate | Genre | Genial | Inquisitor | Obliviousness |
+| Circumscribe | Cogently | Ranting | Maladroit | Viable | Warped | Cloistered | Aplomb | Eminent | Mozart | Piquancy | Incontrovertible | Mavericks | Slant | Milieu | Philistine | Plight |
+| Meteorological | Haltingly | Anointing | Subdued | Moot | Stunted | Befitting | Pianist | Garrulous | Beethoven | Vitriol | Equivocal | Pugilists | Cosmopolitan | Spur | Avowed | Irrefutable |
+| Bonanza | Ceaselessly | Bloviating | Forthright | Fallacious | Controversial | Decadent | Merciless | Forlorn | Cultivate | Unease | Inconsequential | Doyennes | Anachronism | Efflorescence | Impugn | Elusive |
+| Necropolis | Noiselessly | Misconstruing | Recitals | Clinician | Tyranny | Monarchy | Fulsome | Gregarious | Posthumous | Abandon | Sacerdotal | Consigliere | Misnomer | Strife | Jargon |  |
+| Swathes | Epigrammatic | Augmenting | Inestimable | Glib | Hardiness | Entailed | Opaque | Bumbling | Dominant | Uninhibitedly | Idolization | Antithetical | Provocation | Prolific | Discernible |  |
+| Suburbia | Obscure | Dilatory | Pernicious | Obliging | Insolence | Ebb | Derision | Vignettes | Blatantly | Flailing | Subjugation | Provenance | Braggadocio | Dysphoric | Erode |  |
+| Domiciles | Renown | Overzealous | Credence | Slavish | Propitious | Ameliorate | Librettist | Hitchhiker | Galling | Belies | Obeisance | Mercurial | Truculence | Ebullient | Distill |  |
 
 
 ## Word Entries
